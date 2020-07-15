@@ -1,4 +1,4 @@
-#Polynomial adding
+#Adding Polynomials
 
 ## Installing
 
